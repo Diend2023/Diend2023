@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@257756925075615/30-nites-of-code)  
+  ![@257756925075615 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=257756925075615)
+
 <!--
 **Diend2023/Diend2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
